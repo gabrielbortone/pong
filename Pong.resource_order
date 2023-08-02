@@ -16,5 +16,8 @@
     {"name":"Extensions","order":14,"path":"folders/Extensions.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"spt_bola","order":2,"path":"sprites/spt_bola/spt_bola.yy",},
+    {"name":"spt_raquete2","order":1,"path":"sprites/spt_raquete2/spt_raquete2.yy",},
+  ],
 }
