@@ -22,6 +22,11 @@
     {"name":"spt_bola","order":2,"path":"sprites/spt_bola/spt_bola.yy",},
     {"name":"spt_colisor","order":3,"path":"sprites/spt_colisor/spt_colisor.yy",},
     {"name":"obj_bola","order":2,"path":"objects/obj_bola/obj_bola.yy",},
+    {"name":"obj_pontos","order":4,"path":"objects/obj_pontos/obj_pontos.yy",},
+    {"name":"snd_ambient","order":1,"path":"sounds/snd_ambient/snd_ambient.yy",},
     {"name":"spt_raquete2","order":1,"path":"sprites/spt_raquete2/spt_raquete2.yy",},
+    {"name":"spt_colisor_pontos","order":4,"path":"sprites/spt_colisor_pontos/spt_colisor_pontos.yy",},
+    {"name":"obj_ambient","order":5,"path":"objects/obj_ambient/obj_ambient.yy",},
+    {"name":"obj_colisor_pontos","order":6,"path":"objects/obj_colisor_pontos/obj_colisor_pontos.yy",},
   ],
 }
