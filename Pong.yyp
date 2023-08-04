@@ -31,12 +31,13 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.800.0.389",
+    "IDEVersion": "2023.6.0.92",
   },
   "resources": [
     {"id":{"name":"objt_raquete_ia","path":"objects/objt_raquete_ia/objt_raquete_ia.yy",},},
     {"id":{"name":"spt_raquete","path":"sprites/spt_raquete/spt_raquete.yy",},},
     {"id":{"name":"obj_colisor","path":"objects/obj_colisor/obj_colisor.yy",},},
+    {"id":{"name":"obj_texto","path":"objects/obj_texto/obj_texto.yy",},},
     {"id":{"name":"spt_bola","path":"sprites/spt_bola/spt_bola.yy",},},
     {"id":{"name":"spt_colisor","path":"sprites/spt_colisor/spt_colisor.yy",},},
     {"id":{"name":"obj_bola","path":"objects/obj_bola/obj_bola.yy",},},
@@ -46,12 +47,16 @@
     {"id":{"name":"spt_raquete2","path":"sprites/spt_raquete2/spt_raquete2.yy",},},
     {"id":{"name":"spt_colisor_pontos","path":"sprites/spt_colisor_pontos/spt_colisor_pontos.yy",},},
     {"id":{"name":"obj_raquete_jogador","path":"objects/obj_raquete_jogador/obj_raquete_jogador.yy",},},
+    {"id":{"name":"spt_button","path":"sprites/spt_button/spt_button.yy",},},
     {"id":{"name":"obj_ambient","path":"objects/obj_ambient/obj_ambient.yy",},},
     {"id":{"name":"main_script","path":"scripts/main_script/main_script.yy",},},
+    {"id":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
+    {"id":{"name":"obj_botao","path":"objects/obj_botao/obj_botao.yy",},},
     {"id":{"name":"obj_colisor_pontos","path":"objects/obj_colisor_pontos/obj_colisor_pontos.yy",},},
     {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_inicio","path":"rooms/rm_inicio/rm_inicio.yy",},},
     {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "TextureGroups": [

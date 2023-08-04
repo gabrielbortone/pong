@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"objt_raquete_ia","order":1,"path":"objects/objt_raquete_ia/objt_raquete_ia.yy",},
     {"name":"obj_colisor","order":3,"path":"objects/obj_colisor/obj_colisor.yy",},
+    {"name":"obj_texto","order":8,"path":"objects/obj_texto/obj_texto.yy",},
     {"name":"spt_bola","order":2,"path":"sprites/spt_bola/spt_bola.yy",},
     {"name":"spt_colisor","order":3,"path":"sprites/spt_colisor/spt_colisor.yy",},
     {"name":"obj_bola","order":2,"path":"objects/obj_bola/obj_bola.yy",},
@@ -26,7 +27,10 @@
     {"name":"snd_ambient","order":1,"path":"sounds/snd_ambient/snd_ambient.yy",},
     {"name":"spt_raquete2","order":1,"path":"sprites/spt_raquete2/spt_raquete2.yy",},
     {"name":"spt_colisor_pontos","order":4,"path":"sprites/spt_colisor_pontos/spt_colisor_pontos.yy",},
+    {"name":"spt_button","order":5,"path":"sprites/spt_button/spt_button.yy",},
     {"name":"obj_ambient","order":5,"path":"objects/obj_ambient/obj_ambient.yy",},
+    {"name":"rm_inicio","order":1,"path":"rooms/rm_inicio/rm_inicio.yy",},
+    {"name":"obj_botao","order":7,"path":"objects/obj_botao/obj_botao.yy",},
     {"name":"obj_colisor_pontos","order":6,"path":"objects/obj_colisor_pontos/obj_colisor_pontos.yy",},
   ],
 }

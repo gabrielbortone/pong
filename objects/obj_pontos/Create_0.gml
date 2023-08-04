@@ -2,6 +2,6 @@
 // You can write your code in this editor
 global.pontos_jogador = 0;
 global.pontos_maquina = 0;
-
+global.max_pontos = 3;
 
 
